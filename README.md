@@ -23,11 +23,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![snake gif](https://github.com/riolentius/riolentius/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/riolentius)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/riolentius/)
