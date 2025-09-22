@@ -11,3 +11,6 @@
 ![Go](https://img.shields.io/badge/Backend-Go-blue?logo=go)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-316192?logo=postgresql)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-blue?logo=docker)
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/riolentius/riolentius/blob/output/github-contribution-grid-snake.gif)
